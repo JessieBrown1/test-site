@@ -41,5 +41,5 @@ assigned:
         href: pages/1454428319741.md
         permalink: null
         show_in_menu: true
-        show_in_footer: false
+        show_in_footer: true
 unassigned: []
